@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gesse-carlos.github.io/redux-counter-project/static/css/main.e1821071.chunk.css",
-    "main.js": "/gesse-carlos.github.io/redux-counter-project/static/js/main.94b32ccb.chunk.js",
-    "main.js.map": "/gesse-carlos.github.io/redux-counter-project/static/js/main.94b32ccb.chunk.js.map",
-    "runtime-main.js": "/gesse-carlos.github.io/redux-counter-project/static/js/runtime-main.0d33af9d.js",
-    "runtime-main.js.map": "/gesse-carlos.github.io/redux-counter-project/static/js/runtime-main.0d33af9d.js.map",
-    "static/js/2.cb7492be.chunk.js": "/gesse-carlos.github.io/redux-counter-project/static/js/2.cb7492be.chunk.js",
-    "static/js/2.cb7492be.chunk.js.map": "/gesse-carlos.github.io/redux-counter-project/static/js/2.cb7492be.chunk.js.map",
-    "index.html": "/gesse-carlos.github.io/redux-counter-project/index.html",
-    "static/css/main.e1821071.chunk.css.map": "/gesse-carlos.github.io/redux-counter-project/static/css/main.e1821071.chunk.css.map",
-    "static/js/2.cb7492be.chunk.js.LICENSE.txt": "/gesse-carlos.github.io/redux-counter-project/static/js/2.cb7492be.chunk.js.LICENSE.txt"
+    "main.css": "/redux-counter-project/static/css/main.e1821071.chunk.css",
+    "main.js": "/redux-counter-project/static/js/main.94b32ccb.chunk.js",
+    "main.js.map": "/redux-counter-project/static/js/main.94b32ccb.chunk.js.map",
+    "runtime-main.js": "/redux-counter-project/static/js/runtime-main.78f9136f.js",
+    "runtime-main.js.map": "/redux-counter-project/static/js/runtime-main.78f9136f.js.map",
+    "static/js/2.cb7492be.chunk.js": "/redux-counter-project/static/js/2.cb7492be.chunk.js",
+    "static/js/2.cb7492be.chunk.js.map": "/redux-counter-project/static/js/2.cb7492be.chunk.js.map",
+    "index.html": "/redux-counter-project/index.html",
+    "static/css/main.e1821071.chunk.css.map": "/redux-counter-project/static/css/main.e1821071.chunk.css.map",
+    "static/js/2.cb7492be.chunk.js.LICENSE.txt": "/redux-counter-project/static/js/2.cb7492be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d33af9d.js",
+    "static/js/runtime-main.78f9136f.js",
     "static/js/2.cb7492be.chunk.js",
     "static/css/main.e1821071.chunk.css",
     "static/js/main.94b32ccb.chunk.js"
